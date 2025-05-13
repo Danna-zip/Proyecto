@@ -11,10 +11,9 @@ El programa iniciara con un pequeño menú.
 Al iniciar la simulación aparecera una pequeña libreria con los productos que hay, podrás elegir el producto ingresando por su nombre y después la cantidad del mismo.
 Para detener el bucle se ingresa un "." y eso nos regresara al menú inicial.
 
-##Funciones:
+## Funciones:
 **Inicio()**
 Incluye el menú de inicio.
+
 **MenuInicioCompra()**
 Muestra la libreria de productos y precios, las opciones de elegir el producto y la cantidad, y finalmente un resumen de la compra y los precios totales.
-
-
